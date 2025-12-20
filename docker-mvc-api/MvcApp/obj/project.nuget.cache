@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6aNCkLIdtcs=",
+  "dgSpecHash": "1iEWV3eDdyI=",
   "success": true,
-  "projectFilePath": "/Users/xalida/docker-mvc-api/MvcApp/MvcApp.csproj",
+  "projectFilePath": "/Users/xalida/Documents/GitHub/DevOps/docker-mvc-api/MvcApp/MvcApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/xalida/docker-mvc-api/ApiApp/ApiApp.csproj": {}
+    "/Users/xalida/Documents/GitHub/DevOps/docker-mvc-api/ApiApp/ApiApp.csproj": {}
   },
   "projects": {
-    "/Users/xalida/docker-mvc-api/ApiApp/ApiApp.csproj": {
+    "/Users/xalida/Documents/GitHub/DevOps/docker-mvc-api/ApiApp/ApiApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/xalida/docker-mvc-api/ApiApp/ApiApp.csproj",
+        "projectUniqueName": "/Users/xalida/Documents/GitHub/DevOps/docker-mvc-api/ApiApp/ApiApp.csproj",
         "projectName": "ApiApp",
-        "projectPath": "/Users/xalida/docker-mvc-api/ApiApp/ApiApp.csproj",
+        "projectPath": "/Users/xalida/Documents/GitHub/DevOps/docker-mvc-api/ApiApp/ApiApp.csproj",
         "packagesPath": "/Users/xalida/.nuget/packages/",
-        "outputPath": "/Users/xalida/docker-mvc-api/ApiApp/obj/",
+        "outputPath": "/Users/xalida/Documents/GitHub/DevOps/docker-mvc-api/ApiApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/xalida/.nuget/NuGet/NuGet.Config"
