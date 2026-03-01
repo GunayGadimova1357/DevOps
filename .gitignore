@@ -1,0 +1,96 @@
+############################
+# macOS
+############################
+.DS_Store
+.AppleDouble
+.LSOverride
+
+############################
+# Rider / IntelliJ
+############################
+.idea/
+
+############################
+# VS Code
+############################
+.vscode/
+
+############################
+# Visual Studio
+############################
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+############################
+# Build folders (.NET)
+############################
+bin/
+obj/
+out/
+Debug/
+Release/
+
+############################
+# Logs
+############################
+*.log
+
+############################
+# NuGet
+############################
+packages/
+*.nupkg
+*.snupkg
+
+############################
+# Environment variables (СЕКРЕТЫ!)
+############################
+.env
+.env.*
+appsettings.Development.json
+
+############################
+# SQL Database files (НЕ хранить БД)
+############################
+*.sqlite
+*.sqlite3
+*.db
+*.mdf
+*.ldf
+pgdata/
+docker-data/
+
+############################
+# Docker
+############################
+docker-data/
+docker-volumes/
+*.tar
+
+############################
+# Docker override (если локальный)
+docker-compose.override.yml
+
+############################
+# EF Core
+############################
+# Обычно Snapshot НЕ игнорируют в продакшене
+# Migrations/*Snapshot.cs
+
+############################
+# Coverage / Tests
+############################
+TestResults/
+coverage/
+*.coverage
+*.coveragexml
+
+############################
+# Temporary
+############################
+*.tmp
+*.swp
+*.cache
